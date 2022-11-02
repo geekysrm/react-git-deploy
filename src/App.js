@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learning about Git and deployments!
+          Learnt about Git and deployments!
         </a>
         <small>with 30 folks!</small>
       </header>
